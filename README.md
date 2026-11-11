@@ -1,0 +1,2 @@
+# datagrip
+DataGrip Config
